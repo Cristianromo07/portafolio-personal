@@ -52,8 +52,9 @@ ul {
 }
 
 img {
-    max-width: 100%;
+    max-width: 140%;
     display: block;
+    
 }
 
 /* UTILITIES */
